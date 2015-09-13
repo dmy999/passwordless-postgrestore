@@ -9,7 +9,7 @@
   "dependencies": {
     "bcrypt": "^v0.8.5",
     "passwordless-tokenstore": "0.0.10",
-    "pg": "^3.6.0"
+    "pg": "^4.4.1"
   },
   "devDependencies": {
     "chai": "~1.9.1",
